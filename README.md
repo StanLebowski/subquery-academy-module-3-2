@@ -1,4 +1,4 @@
-# SubQuery - Starter Package
+## SubQuery - Starter Package
 
 
 The Starter Package is an example that you can use as a starting point for developing your SubQuery project.
